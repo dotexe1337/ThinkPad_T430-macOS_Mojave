@@ -3,7 +3,7 @@ ThinkPad T430 - macOS Mojave Hackintosh
 This repository is licensed under the GNU GPL v2. Please read LICENSE.md for more information.
 =======================================
 ### This is an EFI setup for running Apple's macOS Mojave on a ThinkPad T430
-#### Warning #1: PLEASE! only use this EFI on a ThinkPad with an Intel Core i5 3320M, 1366x768 screen, and Intel HD Graphics 4000. It would have to be modified to work on a different CPU, GPU or screen resolution, and I will not support those models for this reason.
+#### Warning #1: PLEASE! only use the setup in this repository on a ThinkPad with an Intel Core i5 3320M, 1366x768 screen, and Intel HD Graphics 4000. It would have to be modified to work on a different CPU, GPU or screen resolution, and I will not support those models for this reason.
 #### Warning #2: PLEASE! generate your own serial number and UUID as per the iMessage guide on TonyMacX86. If you use my serial number & UUID, your iMessage and FaceTime will not work and it will just end up causing problems for both of us. So please, generate your own as per the guide.
 
 
